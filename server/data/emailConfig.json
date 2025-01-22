@@ -1,0 +1,19 @@
+{
+    "section-heading": {
+        "text": "A creative way to showcase you",
+        "alignment": "right",
+        "font": "Arial, sans-serif",
+        "textColor": "rgb(0, 0, 0)",
+        "fontSize": "24px",
+        "textTransform": "none"
+    },
+    "our-team-text": {
+        "text": "Our Team kjhkajn kjnw kjn kj ",
+        "alignment": "center",
+        "font": "Georgia, serif",
+        "textColor": "rgb(0, 0, 0)",
+        "fontSize": "30px",
+        "textTransform": "none"
+    },
+    "portfolio-icon": "https://qgm98fl4-3001.inc1.devtunnels.ms/Screenshot 2025-01-09 130332.png"
+}
